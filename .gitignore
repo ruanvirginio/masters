@@ -1,0 +1,5 @@
+# Ignorar subpastas específicas
+bases_originais/
+bkp/
+modelos_salvos/
+resultados/
