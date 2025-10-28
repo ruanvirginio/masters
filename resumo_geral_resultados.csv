@@ -1,2 +1,0 @@
-Trafo,Modelo,Frequência,RMSE Médio,MAE Médio,RMSE Último Fold,MAE Último Fold,Parâmetros_Otimizados
-T1,SVR,daily,0.045,0.032,0.0527,0.0398,"{'gamma': 0.1, 'epsilon': 0.01, 'C': 10}"
