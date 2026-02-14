@@ -1,0 +1,10 @@
+# Ignorar subpastas específicas
+bases_originais/
+bkp/
+resultados/
+plots/
+modelos/
+keras_tuner/
+relatorios/
+relatorios.ipynb
+ASPO.ipynb
