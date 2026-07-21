@@ -78,7 +78,7 @@ Oito modelos, distribuídos em seis famílias algorítmicas, avaliados nas confi
 ├── utils.py                  # Utilitários compartilhados (métricas, splits, DM, bootstrap)
 ├── run_all.py                # Orquestrador do pipeline completo
 │
-├── EDA_disser.py             # Análise exploratória (Capítulo 4)
+├── EDA.py             # Análise exploratória (Capítulo 4)
 │
 ├── models_naive.py           # Baseline sazonal
 ├── models_sarimax.py         # SARIMAX
@@ -151,7 +151,7 @@ python run_all.py --only-stats
 
 **Análise exploratória (independente do pipeline):**
 ```bash
-python EDA_disser.py
+python EDA.py
 ```
 
 ## Dados
